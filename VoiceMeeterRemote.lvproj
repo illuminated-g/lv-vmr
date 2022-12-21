@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Palettes" Type="Folder">
+			<Item Name="VMR API Class.vi" Type="VI" URL="../Palettes/VMR API Class.vi"/>
+		</Item>
 		<Item Name="Test" Type="Folder">
 			<Item Name="Test All Levels.vi" Type="VI" URL="../Test/Test All Levels.vi"/>
 			<Item Name="Test Channel Control &amp; Levels.vi" Type="VI" URL="../Test/Test Channel Control &amp; Levels.vi"/>

@@ -2,7 +2,9 @@
 <LVClass LVVersion="22308000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">VoiceMeeterRemote.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../VoiceMeeterRemote.lvlib</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*"!!!*Q(C=\&gt;3`47."%-@RXS'#3RW4H/Q3JA5X1/!7*LE#(*"=[!K1JA7XY"9G11)S"R2A*R4!@8=9HC]Y18+(E/!N;T``^N_(@5]LV@6&gt;/N@47^@CV9NW66G-4[H#]68XGNK@`R&lt;6]&lt;G^"JT'[T2?UVT6`D*M'D`M0&gt;(@W`P_J@V6P\[OL_NT8\`?/A,_0_'&lt;RE&amp;%47J1H7I;3T]F?:)H?:)H?:)(?:!(?:!(?:!\O:-\O:-\O:-&lt;O:%&lt;O:%&lt;O:&amp;8)2?ZS%5/+6E]73C:.*EA[1R&amp;S5@C34S**`(Q5YEH]33?R*.Y[+,%EXA34_**0!R4YEE]C3@R*"[G+EF7)=?4?*B?A3@Q"*\!%XB95I%H!!3,"2-(E]"1U"D="*\!%XCY6?!*0)%H]!1?GB6Y!E`A#4S"BS'V+V';5=DR-)U=D_.R0)\(]4#V()`D=4S/R`'QH"S0YX%1TI,/Z"$E$()[/$]=D_0B3Y\(]4A?R_.Y;+IHZ,5T1T-+/2\$9XA-D_%R0%QBQW.Y$)`B-4R-+].D?!S0Y4%],#8$9XA-DQ%R&amp;G6Z':-:!YV/2G"Y_+OXR?IJ25GMCN1PL`KF6,^M[J&gt;)`8+I(\L[9;I@EHLTV:OKXCTV*KD`/46;D6%PIBY]/OL)ZZ[[IW[J'_K;OK)OK80K&lt;!T^RRW0R[0W_\VWOZWWW[UWGYX7[\67KZ77S[8G]\FGM^FU$0SA4!@#[6S[OXG]O,V_`(FX?&lt;AYX$^=(?Y06_^T,HW%MV&amp;H_H-&gt;^OAX&amp;1U"RA!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">VoicemeeterRemote</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">573603840</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.4</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
